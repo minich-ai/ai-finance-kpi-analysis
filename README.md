@@ -53,7 +53,7 @@ This mirrors how I would structure a **first-phase financial analytics engagemen
 ---
 
 ## Security & Data Note
-This repository contains only publicly available or synthetic data and no credentials, secrets, or personal information.
+- This repository contains only publicly available or synthetic data and no credentials, secrets, or personal information.
 
 ---
 
