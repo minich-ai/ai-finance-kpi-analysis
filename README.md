@@ -52,6 +52,11 @@ This mirrors how I would structure a **first-phase financial analytics engagemen
 
 ---
 
+## Security & Data Note
+This repository contains only publicly available or synthetic data and no credentials, secrets, or personal information.
+
+---
+
 ## Data Description & Limitations
 
 - **Source format**: The input CSVs in `data/sample/` are **simplified, cleaned representations** of Comcast’s income statement and balance sheet by year.  
