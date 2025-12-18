@@ -3,11 +3,18 @@
 **Purpose:**  
 Demonstrates a finance-focused KPI analysis workflow suitable for executive decision support, dashboards, and AI-powered analytics. This repository is a demonstration of a small, end‑to‑end AI-assisted workflow for analyzing financial KPIs.
 
+## Live Interactive Demo
+👉 https://ai-finance-kpi-analysis.streamlit.app
+
 **Status:**  
 Prototype / demonstration (not production-hardened).
 
 **Tools:**  
 Python, pandas, matplotlib, LLM-assisted development (Cursor).
+
+## For Developers
+- Open in GitHub Codespaces
+- Run locally with Streamlit
 
 **Use cases:**  
 - Executive KPI reviews  
